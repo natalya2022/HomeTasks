@@ -1,0 +1,15 @@
+G:\education\C#1\DZ001\exercise002\bin\Debug\net6.0\exercise002.exe
+G:\education\C#1\DZ001\exercise002\bin\Debug\net6.0\exercise002.deps.json
+G:\education\C#1\DZ001\exercise002\bin\Debug\net6.0\exercise002.runtimeconfig.json
+G:\education\C#1\DZ001\exercise002\bin\Debug\net6.0\exercise002.dll
+G:\education\C#1\DZ001\exercise002\bin\Debug\net6.0\exercise002.pdb
+G:\education\C#1\DZ001\exercise002\obj\Debug\net6.0\exercise002.csproj.AssemblyReference.cache
+G:\education\C#1\DZ001\exercise002\obj\Debug\net6.0\exercise002.GeneratedMSBuildEditorConfig.editorconfig
+G:\education\C#1\DZ001\exercise002\obj\Debug\net6.0\exercise002.AssemblyInfoInputs.cache
+G:\education\C#1\DZ001\exercise002\obj\Debug\net6.0\exercise002.AssemblyInfo.cs
+G:\education\C#1\DZ001\exercise002\obj\Debug\net6.0\exercise002.csproj.CoreCompileInputs.cache
+G:\education\C#1\DZ001\exercise002\obj\Debug\net6.0\exercise002.dll
+G:\education\C#1\DZ001\exercise002\obj\Debug\net6.0\refint\exercise002.dll
+G:\education\C#1\DZ001\exercise002\obj\Debug\net6.0\exercise002.pdb
+G:\education\C#1\DZ001\exercise002\obj\Debug\net6.0\exercise002.genruntimeconfig.cache
+G:\education\C#1\DZ001\exercise002\obj\Debug\net6.0\ref\exercise002.dll
